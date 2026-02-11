@@ -1,4 +1,4 @@
-package course;
+package fundamentals;
 
 import java.util.Scanner;
 
