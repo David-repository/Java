@@ -1,4 +1,4 @@
-package fundamentals;
+package s02_estruturas_controle;
 
 import java.util.Locale;
 import java.util.Scanner;

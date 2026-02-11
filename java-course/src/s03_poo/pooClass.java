@@ -1,4 +1,4 @@
-package poo;
+package s03_poo;
 
 public class pooClass {
 

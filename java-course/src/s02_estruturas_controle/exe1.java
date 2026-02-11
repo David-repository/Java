@@ -1,4 +1,4 @@
-package exercises;
+package s02_estruturas_controle;
 
 import java.util.Scanner;
 

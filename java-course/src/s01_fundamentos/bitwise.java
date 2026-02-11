@@ -1,4 +1,4 @@
-package fundamentals;
+package s01_fundamentos;
 
 import java.util.Scanner;
 
