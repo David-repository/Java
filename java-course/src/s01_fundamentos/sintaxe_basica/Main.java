@@ -1,4 +1,4 @@
-package s01_fundamentos;
+package s01_fundamentos.sintaxe_basica;
 
 public class Main {
 

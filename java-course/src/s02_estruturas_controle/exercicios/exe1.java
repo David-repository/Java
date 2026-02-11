@@ -1,8 +1,8 @@
-package s02_estruturas_controle;
+package s02_estruturas_controle.exercicios;
 
 import java.util.Scanner;
 
-public class exe2 {
+public class exe1 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -11,11 +11,11 @@ public class exe2 {
 		
 		int N = sc.nextInt();
 		
-		if (N % 2 == 0) {
-			System.out.println("Par");
+		if(N > 0) {
+			System.out.println("Não negativo");
 		}
 		else {
-			System.out.println("Impar");
+			System.out.println("Negativo");
 		}
 		sc.close();
 	}

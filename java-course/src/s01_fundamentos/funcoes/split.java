@@ -1,4 +1,4 @@
-package s01_fundamentos;
+package s01_fundamentos.funcoes;
 
 public class split {
 
