@@ -1,4 +1,4 @@
-package s03_poo_membrosEstaticos_util;
+package s04_poo_membrosEstaticos_util;
 
 public class Calculator {
 

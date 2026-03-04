@@ -1,9 +1,9 @@
-package s03_poo_membrosEstaticos_application;
+package s04_poo_membrosEstaticos_application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import s03_poo_membrosEstaticos_util.Calculator;
+import s04_poo_membrosEstaticos_util.Calculator;
 
 public class Program {
 
